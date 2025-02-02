@@ -37,7 +37,7 @@
     "eslint-config-turbo": "^1.10.16",
     "eslint-plugin-import": "^2.29.1",
     "prettier": "^3.0.3",
-    "turbo": "^1.10.16"
+    "turbo": "^2.4.0"
   },
   "volta": {
     "node": "20.9.0",
